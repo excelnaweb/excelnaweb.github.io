@@ -336,7 +336,7 @@ input:hover[type="button"],input:hover[type="submit"] {
 }
 .autorsocial li a {
  display:block;
- width:50px;
+ width:39px;
 height:50px;
 margin:0 1px;
 background:transparent url("../images/social_green.png") no-repeat;
@@ -346,9 +346,13 @@ text-indent:-9000px;
 }
 .autorsocial li a.autorFacebook {
 	background-position: 80px 0;
-    background: url("../images/icons.png") 11px 0px no-repeat;
-  
+    background: url("../images/icons.png") 0px 0px no-repeat;
 }
+
+.autorsocial li a.autorFacebook:hover {
+ background: url("../images/icons.png") -39px 0px no-repeat;
+}
+
 .autorsocial li a.autorGooglePlus {
     background-position: -150px 0;
 }
@@ -361,9 +365,7 @@ text-indent:-9000px;
 .autorsocial li a.autorRss:hover {
 background-position: 0 -50px;
 }
-.autorsocial li a.autorFacebook:hover {
- background: url("../images/icons.png") 11px 0px no-repeat;
-}
+
 .autorsocial li a.autorGooglePlus:hover {
     background-position: -150px -50px;
 }
@@ -647,7 +649,7 @@ height:30px;
 
 .right-sidebar #sidebar_adder-1 a:hover {
 	background-color: #E94255;
-}../
+}
 
 .right-sidebar #sidebar_adder-2 a {
 	background: #13D3DB url("../images/icons.png") 25px -2005px no-repeat;
