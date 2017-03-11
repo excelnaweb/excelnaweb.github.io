@@ -345,7 +345,7 @@ text-indent:-9000px;
  overflow:hidden;
 }
 .autorsocial li a.autorFacebook {
-    
+    /**/
   
 }
 .autorsocial li a.autorGooglePlus {
@@ -361,7 +361,7 @@ text-indent:-9000px;
 background-position: 0 -50px;
 }
 .autorsocial li a.autorFacebook:hover {
- 
+ /**/
 }
 .autorsocial li a.autorGooglePlus:hover {
     background-position: -150px -50px;
