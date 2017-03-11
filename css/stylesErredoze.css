@@ -193,7 +193,7 @@ input:hover[type="button"],input:hover[type="submit"] {
 	  }
  
 /* Newsletter sidebar------------------------------------------------------------ */
-.news {background: url("../erreDoze/images/rss-green.png") no-repeat top right;
+.news {background: url("../images/rss-green.png") no-repeat top right;
       font-family: PT Sans Narrow, tahoma, arial, helvetica, sans-serif;
 	  font-size: 19px;
 	  color:#444;
@@ -339,7 +339,7 @@ input:hover[type="button"],input:hover[type="submit"] {
  width:50px;
 height:50px;
 margin:0 1px;
-background:transparent url(images/social_green.png) no-repeat;
+background:transparent url(../images/social_green.png) no-repeat;
 text-indent:-9000px;
  position: relative;
  overflow:hidden;
@@ -415,7 +415,7 @@ div#singlesubscribe {height: 84px;
         padding: 10px;
         border-radius: 5px;
         margin: 1px auto 20px;
-        background: #1E7145 url("../erreDoze/images/email.png") no-repeat 98% center;
+        background: #1E7145 url("../images/email.png") no-repeat 98% center;
         
 }
 div#singlesubscribe .headline {
@@ -424,7 +424,7 @@ div#singlesubscribe .headline {
         margin: 5px 0 0 60px;
 }
 div#singlesubscribe .arrow {
-        background: url("../erreDoze/images/arrow-left.png") no-repeat;
+        background: url("../images/arrow-left.png") no-repeat;
         width: 60px;
         height: 60px;
         float: left;
@@ -509,7 +509,7 @@ height:30px;
 	padding-bottom: 5px;
 	margin-bottom: 30px;
 	border-bottom: 1px solid #fff;
-	background: #3A464A url(images/sprite.png) 0 bottom repeat-x;
+	background: #3A464A url(../images/sprite.png) 0 bottom repeat-x;
 	text-align: center;
 }
 
@@ -614,7 +614,7 @@ height:30px;
 	line-height: 120%;
 	float: left;
 	padding: 30px 0 70px;
-	background: url(images/sprite.png) no-repeat center 20%;
+	background: url(../images/sprite.png) no-repeat center 20%;
 }
 
 .banner .banner-image {
@@ -639,16 +639,16 @@ height:30px;
 }
 
 .right-sidebar #sidebar_adder-1 a {
-	background: #F15C58 url(images/icons.png) 25px -1708px no-repeat;
+	background: #F15C58 url(../images/icons.png) 25px -1708px no-repeat;
 	border-left: 8px solid #E94255;
 }
 
 .right-sidebar #sidebar_adder-1 a:hover {
 	background-color: #E94255;
-}
+}../
 
 .right-sidebar #sidebar_adder-2 a {
-	background: #13D3DB url(images/icons.png) 25px -2005px no-repeat;
+	background: #13D3DB url(../images/icons.png) 25px -2005px no-repeat;
 	border-left: 8px solid #3EBFD0;
 }
 
@@ -657,7 +657,7 @@ height:30px;
 }
 
 .right-sidebar #sidebar_adder-3 a {
-	background: #B14CE3 url(images/icons.png) 25px -1858px no-repeat;
+	background: #B14CE3 url(../images/icons.png) 25px -1858px no-repeat;
 	border-left: 8px solid #A043CC;
 }
 
@@ -666,7 +666,7 @@ height:30px;
 }
 
 .right-sidebar #sidebar_adder-4 a {
-	background: #F8AA41 url(images/icons.png) 28px -1554px no-repeat;
+	background: #F8AA41 url(../images/icons.png) 28px -1554px no-repeat;
 	border-left: 8px solid #E1983A;
 }
 
@@ -675,7 +675,7 @@ height:30px;
 }
 
 .right-sidebar #sidebar_adder-5 a {
-	background: #88E057 url(images/icons.png) 18px -1410px no-repeat;
+	background: #88E057 url(../images/icons.png) 18px -1410px no-repeat;
 	border-left: 8px solid #7BCA4E;
 }
 
@@ -696,35 +696,35 @@ h1.entry-title {
 }
 
 .post-1 h1.entry-title {
-	background: #F15C58 url(images/icons.png) 25px -1693px no-repeat;
+	background: #F15C58 url(../images/icons.png) 25px -1693px no-repeat;
 	border-left: 10px solid #E94255;
 	padding: 30px 20px 30px 100px;
 	color: #fff;
 }
 
 .post-2 h1.entry-title {
-	background: #13D3DB url(images/icons.png) 25px -1993px no-repeat;
+	background: #13D3DB url(../images/icons.png) 25px -1993px no-repeat;
 	border-left: 10px solid #3EBFD0;
 	padding: 30px 20px 30px 100px;
 	color: #fff;
 }
 
 .post-3 h1.entry-title {
-	background: #B14CE3 url(images/icons.png) 25px -1846px no-repeat;
+	background: #B14CE3 url(../images/icons.png) 25px -1846px no-repeat;
 	border-left: 10px solid #A043CC;
 	padding: 30px 20px 30px 100px;
 	color: #fff;
 }
 
 .post-4 h1.entry-title {
-	background: #F8AA41 url(images/icons.png) 28px -1540px no-repeat;
+	background: #F8AA41 url(../images/icons.png) 28px -1540px no-repeat;
 	border-left: 10px solid #E1983A;
 	padding: 30px 20px 30px 100px;
 	color: #fff;
 }
 
 .post-5 h1.entry-title {
-	background: #88E057 url(images/icons.png) 18px -1398px no-repeat;
+	background: #88E057 url(../images/icons.png) 18px -1398px no-repeat;
 	border-left: 10px solid #7BCA4E;
 	padding: 30px 20px 30px 100px;
 	color: #fff;
@@ -739,7 +739,7 @@ h1.entry-title {
 	font-size: 22px;
 	color: #A5BDC5;
 	padding: 20px 10px 15px;
-	background: #465459; /*url(images/icons.png) 300px -537px no-repeat;*/
+	background: #465459; /*url(../images/icons.png) 300px -537px no-repeat;*/
     border-bottom: 1px solid #DDDCD8;
 	
 }
@@ -747,7 +747,7 @@ h1.entry-title {
 .right-sidebar #html_javascript_adder-4,#html_javascript_adder-14,.box-email {
 	text-align: center;
 	padding-bottom: 0px;
-	background: #fff url(images/icons.png) 0px bottom repeat-x;
+	background: #fff url(../images/icons.png) 0px bottom repeat-x;
 }
 
 #html_javascript_adder-14,.box-email {
