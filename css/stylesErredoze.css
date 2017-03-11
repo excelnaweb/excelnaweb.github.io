@@ -361,7 +361,8 @@ text-indent:-9000px;
 background-position: 0 -50px;
 }
 .autorsocial li a.autorFacebook:hover {
-    background-position:-100px -50px;
+   /* background-position:-100px -50px;*/
+	 background: url("../images/icons.png") 0px -2696px no-repeat;
 }
 .autorsocial li a.autorGooglePlus:hover {
     background-position: -150px -50px;
