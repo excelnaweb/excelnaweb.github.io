@@ -345,7 +345,8 @@ text-indent:-9000px;
  overflow:hidden;
 }
 .autorsocial li a.autorFacebook {
-    background-position: -100px 0;
+    /*background-position: -100px 0;*/
+    background: url("../images/icons.png") 0px 0px no-repeat;
 }
 .autorsocial li a.autorGooglePlus {
     background-position: -150px 0;
