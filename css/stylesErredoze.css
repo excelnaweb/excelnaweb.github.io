@@ -345,7 +345,6 @@ text-indent:-9000px;
  overflow:hidden;
 }
 .autorsocial li a.autorFacebook {
-	background-position: 80px 0;
     background: url("../images/icons.png") 0px 0px no-repeat;
 }
 
@@ -354,11 +353,21 @@ text-indent:-9000px;
 }
 
 .autorsocial li a.autorGooglePlus {
-    background-position: -150px 0;
+    background: url("../images/icons.png") 0px -60px no-repeat;
 }
+
+.autorsocial li a.autorGooglePlus:hover {
+     background: url("../images/icons.png") -39px -60px no-repeat;
+}
+
 .autorsocial li a.autorTwitter {
-    background-position: -50px 0;
+    background: url("../images/icons.png") 0px -128px no-repeat;
 }
+
+.autorsocial li a.autorTwitter:hover {
+     background: url("../images/icons.png") -39px -128px no-repeat;
+}
+
 .autorsocial li a.autorRss{
  background-position: 0 0;
 }
@@ -366,12 +375,6 @@ text-indent:-9000px;
 background-position: 0 -50px;
 }
 
-.autorsocial li a.autorGooglePlus:hover {
-    background-position: -150px -50px;
-}
-.autorsocial li a.autorTwitter:hover {
-    background-position: -50px -50px;
-}
 .autorbox p.bio {
     font-family: 'lucida sans unicode', 'lucida grande', sans-serif;
     font-size: 12px;
