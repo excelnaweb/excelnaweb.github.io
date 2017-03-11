@@ -217,7 +217,7 @@ input:hover[type="button"],input:hover[type="submit"] {
 .simple-social-icons { overflow: hidden; } 
 .simple-social-icons .alignleft, .simple-social-icons .alignright { margin: 0px; padding: 0; } 
 .simple-social-icons ul li {background: none !important; border: none !important; float: left; list-style-type: none !important; margin: 0 5px 10px !important; padding: 0 !important; } 
-.simple-social-icons ul li a, .simple-social-icons ul li a:hover { background: #1E7145 url("../erreDoze/images/sprite_32x32modificado.png") no-repeat; -moz-border-radius: 0px -webkit-border-radius: 0px; border-radius: 0px; display: block; height: 32px; overflow: hidden; text-indent: -999px; width: 32px; }/* #1E7145* testar */
+.simple-social-icons ul li a, .simple-social-icons ul li a:hover { background: #1E7145 url("../images/sprite_32x32.png") no-repeat; -moz-border-radius: 0px -webkit-border-radius: 0px; border-radius: 0px; display: block; height: 32px; overflow: hidden; text-indent: -999px; width: 32px; }/* #1E7145* testar */
 .simple-social-icons ul li a:hover { background-color: #E39204; }
 .simple-social-icons ul li.social-facebook a, .simple-social-icons ul li.social-facebook a:hover { background-position: -64px 0; }
 .simple-social-icons ul li.social-gplus a, .simple-social-icons ul li.social-gplus a:hover { background-position: -96px 0; }
