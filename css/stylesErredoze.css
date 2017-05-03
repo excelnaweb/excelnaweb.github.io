@@ -395,7 +395,7 @@ margin-top: 0px;
 .menu-fixo {
 z-index: 9999;
 position: fixed;
-top: 58;
+top: -58;
 width: 100%;
 height: 100px;
 
