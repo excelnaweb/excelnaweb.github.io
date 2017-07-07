@@ -406,7 +406,7 @@ height: 100px;
 #nav { float: left; font: normal 16px Arial, Helvetica, Sans-serif; border: 0px solid #ccc; border-top: 0px solid #ccc; overflow: hidden; width: 100%; background: #1E7145;} 
 #nav ul { margin: 0; padding: 0; list-style: none;} 
 #nav ul li {float: left;} 
-#nav ul li a { float: left; color: #fff; padding: 20px 20px; text-decoration: none; background: #1E7145; border-left: 1px solid rgba(255, 255, 255, 0.05); border-right: 1px solid rgba(0,0,0,0.2); }
+#nav ul li a { float: left; color: #fff; padding: 12px 20px; text-decoration: none; background: #1E7145; border-left: 1px solid rgba(255, 255, 255, 0.05); border-right: 1px solid rgba(0,0,0,0.2); }
 #nav ul li a:hover,#nav ul li:hover > a { color: #fff; background:#ff9900; } 
 #nav li ul a:hover,#nav ul li li:hover > a { color: #fff; }
 #nav li ul { background: #4a6093; left: -999em; margin: 0 0 0; position: absolute; width: 160px; z-index: 9999; box-shadow: 0 0 15px rgba(0, 0, 0, 0.4) inset; -moz-box-shadow: 0 0 15px rgba(0, 0, 0, 0.4) inset; -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.4) inset; border: 1px solid rgba(0, 0, 0, 0.5);} 
