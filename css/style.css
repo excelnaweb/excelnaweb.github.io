@@ -24,7 +24,7 @@ body {
 	/*padding-bottom: 5px;*/
 	margin-bottom: 30px;
 	border-bottom: 1px solid #222;
-	background: #5a4287 url(images/sprite.png) 0 bottom repeat-x;
+	background: #5a4287 url(../images/sprite.png) 0 bottom repeat-x;
 }
 
 .banner .widget-wrap {
@@ -38,7 +38,7 @@ body {
 }
 
 .banner #html_javascript_adder-9 {
-	background: #465459; /*url(images/sprite.png) repeat-x 0 0;*/
+	background: #465459 url(../images/sprite.png) repeat-x 0 0;*/
 	border-top: 1px solid #222;
 	padding: 30px 0 0px;
 }
@@ -103,7 +103,7 @@ body {
 	line-height: 120%;
 	float: left;
 	padding: 30px 0 70px;
-	background: url(images/sprite.png) no-repeat center 20%;
+	background: url(../images/sprite.png) no-repeat center 20%;
 }
 
 .banner .banner-image {
@@ -132,7 +132,7 @@ h1 {
 */
  .banner input[type="submit"] {
 	border-radius: 50px;
-	background: #F8780C url(images/icons.png) 15px -437px no-repeat; /*#00A9EB*/
+	background: #F8780C url(../images/icons.png) 15px -437px no-repeat; /*#00A9EB*/
 	padding: 7px 15px 7px 40px;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -328,7 +328,7 @@ h1 {
 
 
 .banner .banner-text {
-	background: url(images/sprite.png) no-repeat center center;
+	background: url(../images/sprite.png) no-repeat center center;
 	padding-bottom: 10px
 }
 
