@@ -24,7 +24,7 @@ body {
 	/*padding-bottom: 5px;*/
 	margin-bottom: 30px;
 	border-bottom: 1px solid #222;
-	background: #5a4287 url(../images/sprite.png) 0 bottom repeat-x;
+	background: #339966 url(../images/sprite.png) 0 bottom repeat-x;
 }
 
 .banner .widget-wrap {
@@ -32,7 +32,7 @@ body {
 }
 
 .banner input[type="text"],.banner input[type="email"] {
-	border: 1px solid #5a4287;
+	border: 1px solid #339966;
 	width: 310px;
 	padding: 7px 10px;
 }
