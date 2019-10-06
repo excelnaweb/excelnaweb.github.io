@@ -416,3 +416,109 @@ height: 100px;
 
 }
 
+
+.right-sidebar #sidebar_adder-1 a,.right-sidebar #sidebar_adder-2 a,.right-sidebar #sidebar_adder-3 a,.right-sidebar #sidebar_adder-4 a,.right-sidebar #sidebar_adder-5 a {
+	border: none;
+	padding: 30px 10px 30px 90px;
+	color: #fff;
+	text-transform: lowercase;
+	font-size: 22px;
+	line-height: 100%;
+	display: block;
+	text-decoration: none;
+	font-family: 'Lato', Helvetica, Arial, 'Sans Serif';
+	font-weight: 200;
+}
+
+.right-sidebar #sidebar_adder-1 a {
+	background: #F15C58 url("../images/icons.png") 25px -1708px no-repeat;
+	border-left: 8px solid #E94255;
+}
+
+.right-sidebar #sidebar_adder-1 a:hover {  
+	background-color: #E94255;
+}
+
+.right-sidebar #sidebar_adder-2 a {
+	background: #13D3DB url("../images/icons.png") 25px -2005px no-repeat;
+	border-left: 8px solid #3EBFD0;
+}
+
+.right-sidebar #sidebar_adder-2 a:hover {
+	background-color: #3EBFD0;
+}
+
+.right-sidebar #sidebar_adder-3 a {
+	background: #B14CE3 url("../images/icons.png") 25px -1858px no-repeat;
+	border-left: 8px solid #A043CC;
+}
+
+.right-sidebar #sidebar_adder-3 a:hover {
+	background-color: #A043CC;
+}
+
+.right-sidebar #sidebar_adder-4 a {
+	background: #F8AA41 url("../images/icons.png") 28px -1554px no-repeat;
+	border-left: 8px solid #E1983A;
+}
+
+.right-sidebar #sidebar_adder-4 a:hover {
+	background-color: #E1983A;
+}
+
+.right-sidebar #sidebar_adder-5 a {
+	background: #88E057 url("../images/icons.png") 18px -1410px no-repeat;
+	border-left: 8px solid #7BCA4E;
+}
+
+.right-sidebar #sidebar_adder-5 a:hover {
+	background-color: #7BCA4E;
+}
+/*
+.right-sidebar #sidebar_adder-5,#wpp-4 {
+	margin-bottom: 60px;
+}
+*/
+
+h1.entry-title {
+	font-size: 36px;
+	font-family: 'Lato', Helvetica, Arial, 'Sans Serif';
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+.post-1 h1.entry-title {
+	background: #F15C58 url("../images/icons.png") 25px -1693px no-repeat;
+	border-left: 10px solid #E94255;
+	padding: 30px 20px 30px 100px;
+	color: #fff;
+}
+
+.post-2 h1.entry-title {
+	background: #13D3DB url("../images/icons.png") 25px -1993px no-repeat;
+	border-left: 10px solid #3EBFD0;
+	padding: 30px 20px 30px 100px;
+	color: #fff;
+}
+
+.post-3 h1.entry-title {
+	background: #B14CE3 url("../images/icons.png") 25px -1846px no-repeat;
+	border-left: 10px solid #A043CC;
+	padding: 30px 20px 30px 100px;
+	color: #fff;
+}
+
+.post-4 h1.entry-title {
+	background: #F8AA41 url("../images/icons.png") 28px -1540px no-repeat;
+	border-left: 10px solid #E1983A;
+	padding: 30px 20px 30px 100px;
+	color: #fff;
+}
+
+.post-5 h1.entry-title {
+	background: #88E057 url("../images/icons.png") 18px -1398px no-repeat;
+	border-left: 10px solid #7BCA4E;
+	padding: 30px 20px 30px 100px;
+	color: #fff;
+}
+
