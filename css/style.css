@@ -1,9 +1,33 @@
+/***
+ * Google fonts ================================================== */
+@font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 300; src: local('Open Sans Light'), local('OpenSans-Light'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYraN7vELC11_xip9Rz-hMs.woff) format('woff'); }
+@font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/RjgO7rYTmqiVp7vzi-Q5UT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff'); }
+@font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzIraN7vELC11_xip9Rz-hMs.woff) format('woff'); }
 
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/KT3KS9Aol4WfR6Vas8kNcg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/9k-RPmcnxYEPm8CNFsH2gg.woff) format('woff');
+}
+
+
+html { font-size: 16px; overflow-x: hidden; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+body { background-color: #f7f7fa; font-family: 'Open Sans', Tahoma; font-weight: 300; line-height: 26px; color: #515e6c; -webkit-font-smoothing: antialiased; -webkit-text-stroke: 1px transparent; -webkit-text-rendering: optimizeLegibility; text-rendering: optimizeLegibility; }
+
+
+/*
 body {
 	font-family: 'freight-sans-pro',sans-serif;
 	background: #3B4B4C;
 }
-
+*/
 
 
 .clearfix:after {
@@ -373,3 +397,22 @@ h1 {
 	margin-bottom: 20px;
 }
 }
+
+
+/* Menu Fixo - Top Menu -----------------------------------------------*/
+.conteudo-menu {
+background-color: transparent;
+padding: 0px;
+margin: 0px;
+margin-top: 0px;
+}
+
+.menu-fixo {
+z-index: 9999;
+position: fixed;
+top: 0;
+width: 100%;
+height: 100px;
+
+}
+
